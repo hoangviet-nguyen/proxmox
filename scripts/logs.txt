@@ -1,0 +1,189 @@
+Connecting to server debian@86.119.46.91
+Linux node1 6.1.0-22-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.94-1 (2024-06-21) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Checking and removing scripts directory if it exists
+Creating scripts directory
+Transferring scripts to server debian@86.119.46.91
+Linux node1 6.1.0-22-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.94-1 (2024-06-21) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Changing rights for the scripts
+Running the credential scripts
+Removing crontab ...
+Removing user `eval' ...
+Done.
+Removing crontab ...
+Removing user `user' ...
+Done.
+The following directories in /home
+debian
+Hit:1 http://ftp.ch.debian.org/debian bookworm-backports InRelease
+Hit:2 http://ftp.ch.debian.org/debian bookworm InRelease
+Hit:3 http://ftp.ch.debian.org/debian bookworm-updates InRelease
+Hit:4 http://security.debian.org bookworm-security InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+27 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following NEW packages will be installed:
+  linux-image-6.1.0-25-amd64
+The following packages will be upgraded:
+  base-files curl initramfs-tools initramfs-tools-core libc-bin libc-l10n
+  libc6 libcurl3-gnutls libcurl4 libexpat1 libnss-systemd libpam-systemd
+  libpython3.11-minimal libpython3.11-stdlib libssl3 libsystemd-shared
+  libsystemd0 libudev1 linux-image-amd64 locales openssl python3.11
+  python3.11-minimal qemu-utils systemd systemd-sysv udev
+27 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 95.4 MB of archives.
+After this operation, 408 MB of additional disk space will be used.
+Do you want to continue? [Y/n] Abort.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+nano is already the newest version (7.2-1+deb12u1).
+0 upgraded, 0 newly installed, 0 to remove and 27 not upgraded.
+User eval has been created
+User user has been created
+eval   ALL = (ALL) NOPASSWD: ALL
+user   ALL = (ALL) NOPASSWD: ALL
+Connecting to server debian@86.119.47.174
+Linux node2 6.1.0-22-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.94-1 (2024-06-21) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Checking and removing scripts directory if it exists
+Creating scripts directory
+Transferring scripts to server debian@86.119.47.174
+Linux node2 6.1.0-22-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.94-1 (2024-06-21) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Changing rights for the scripts
+Running the credential scripts
+Removing crontab ...
+Removing user `eval' ...
+Done.
+Removing crontab ...
+Removing user `user' ...
+Done.
+The following directories in /home
+debian
+Hit:1 http://ftp.ch.debian.org/debian bookworm-backports InRelease
+Hit:2 http://ftp.ch.debian.org/debian bookworm InRelease
+Hit:3 http://ftp.ch.debian.org/debian bookworm-updates InRelease
+Hit:4 http://security.debian.org bookworm-security InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+27 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following NEW packages will be installed:
+  linux-image-6.1.0-25-amd64
+The following packages will be upgraded:
+  base-files curl initramfs-tools initramfs-tools-core libc-bin libc-l10n
+  libc6 libcurl3-gnutls libcurl4 libexpat1 libnss-systemd libpam-systemd
+  libpython3.11-minimal libpython3.11-stdlib libssl3 libsystemd-shared
+  libsystemd0 libudev1 linux-image-amd64 locales openssl python3.11
+  python3.11-minimal qemu-utils systemd systemd-sysv udev
+27 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 95.4 MB of archives.
+After this operation, 408 MB of additional disk space will be used.
+Do you want to continue? [Y/n] Abort.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+nano is already the newest version (7.2-1+deb12u1).
+0 upgraded, 0 newly installed, 0 to remove and 27 not upgraded.
+User eval has been created
+User user has been created
+eval   ALL = (ALL) NOPASSWD: ALL
+user   ALL = (ALL) NOPASSWD: ALL
+Connecting to server debian@86.119.46.187
+Linux node3 6.1.0-22-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.94-1 (2024-06-21) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Checking and removing scripts directory if it exists
+Creating scripts directory
+Transferring scripts to server debian@86.119.46.187
+Linux node3 6.1.0-22-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.94-1 (2024-06-21) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Changing rights for the scripts
+Running the credential scripts
+Removing crontab ...
+Removing user `eval' ...
+Done.
+Removing crontab ...
+Removing user `user' ...
+Done.
+The following directories in /home
+debian
+Hit:1 http://ftp.ch.debian.org/debian bookworm-backports InRelease
+Hit:2 http://ftp.ch.debian.org/debian bookworm InRelease
+Hit:3 http://ftp.ch.debian.org/debian bookworm-updates InRelease
+Hit:4 http://security.debian.org bookworm-security InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+27 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following NEW packages will be installed:
+  linux-image-6.1.0-25-amd64
+The following packages will be upgraded:
+  base-files curl initramfs-tools initramfs-tools-core libc-bin libc-l10n
+  libc6 libcurl3-gnutls libcurl4 libexpat1 libnss-systemd libpam-systemd
+  libpython3.11-minimal libpython3.11-stdlib libssl3 libsystemd-shared
+  libsystemd0 libudev1 linux-image-amd64 locales openssl python3.11
+  python3.11-minimal qemu-utils systemd systemd-sysv udev
+27 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 95.4 MB of archives.
+After this operation, 408 MB of additional disk space will be used.
+Do you want to continue? [Y/n] Abort.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+nano is already the newest version (7.2-1+deb12u1).
+0 upgraded, 0 newly installed, 0 to remove and 27 not upgraded.
+User eval has been created
+User user has been created
+eval   ALL = (ALL) NOPASSWD: ALL
+user   ALL = (ALL) NOPASSWD: ALL
