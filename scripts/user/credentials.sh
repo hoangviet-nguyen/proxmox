@@ -1,11 +1,5 @@
 #! /usr/bin/bash
 
-# update and upgrade
-
-# needed packages
-sudo apt update && sudo apt upgrade
-sudo apt install nano
-
 # create user eval
 sudo useradd -m -s /bin/bash eval
 sudo usermod -aG sudo eval

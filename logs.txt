@@ -1,0 +1,105 @@
+Connecting to server debian@86.119.46.91
+Linux node1 6.1.0-22-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.94-1 (2024-06-21) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Checking and removing scripts directory if it exists
+Creating scripts directory
+Transferring scripts to server debian@86.119.46.91
+Linux node1 6.1.0-22-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.94-1 (2024-06-21) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Changing rights for the scripts
+Running the credential scripts
+Removing crontab ...
+Removing user `eval' ...
+Done.
+Removing crontab ...
+Removing user `user' ...
+Done.
+The following directories in /home
+debian
+User eval has been created
+User user has been created
+eval   ALL = (ALL) NOPASSWD: ALL
+user   ALL = (ALL) NOPASSWD: ALL
+Running Network script
+Connecting to server debian@86.119.47.174
+Linux node2 6.1.0-22-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.94-1 (2024-06-21) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Checking and removing scripts directory if it exists
+Creating scripts directory
+Transferring scripts to server debian@86.119.47.174
+Linux node2 6.1.0-22-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.94-1 (2024-06-21) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Changing rights for the scripts
+Running the credential scripts
+Removing crontab ...
+Removing user `eval' ...
+Done.
+Removing crontab ...
+Removing user `user' ...
+Done.
+The following directories in /home
+debian
+User eval has been created
+User user has been created
+eval   ALL = (ALL) NOPASSWD: ALL
+user   ALL = (ALL) NOPASSWD: ALL
+Running Network script
+Connecting to server debian@86.119.46.187
+Linux node3 6.1.0-22-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.94-1 (2024-06-21) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Checking and removing scripts directory if it exists
+Creating scripts directory
+Transferring scripts to server debian@86.119.46.187
+Linux node3 6.1.0-22-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.94-1 (2024-06-21) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Changing rights for the scripts
+Running the credential scripts
+Removing crontab ...
+Removing user `eval' ...
+Done.
+Removing crontab ...
+Removing user `user' ...
+Done.
+The following directories in /home
+debian
+User eval has been created
+User user has been created
+eval   ALL = (ALL) NOPASSWD: ALL
+user   ALL = (ALL) NOPASSWD: ALL
+Running Network script

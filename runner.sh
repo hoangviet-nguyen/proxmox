@@ -15,15 +15,18 @@ do
 EOF
     
     echo "Transferring scripts to server $server"
-    scp "./credentials.sh" $server:~/scripts
-    scp "./delete.sh" $server:~/scripts
+    scp "./scripts/user/credentials.sh" $server:~/scripts
+    scp "./scripts/user/delete.sh" $server:~/scripts
+    scp "./scripts/network.sh" $server:~/scripts
 
     ssh $server << EOF
     echo "Changing rights for the scripts"
     cd scripts
-    sudo chmod u+x credentials.sh delete.sh 
+    sudo chmod u+x credentials.sh delete.sh network.sh
     echo "Running the credential scripts"
     sudo ./delete.sh
     sudo ./credentials.sh
+    echo "Running Network script"
+    sudo ./network.sh
 EOF
 done
